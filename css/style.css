@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+a {
+  color: rgb(31, 139, 182);
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+body {
+  background: rgb(82, 245, 82);
+}
+
+.container {
+  width: 930px;
+  margin: 0 auto;
+  height: 100%;
+  background: rgb(50, 212, 50);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  align-items: center;
+}
+
+.border {
+  border-radius: 25%;
+  border: 3px solid white;
+  margin: 10px;
+}
+
+.description {
+  width: 50%;
+  height: 100%;
+  text-align: justify;
+  padding: 0 10px;
+}
+
+.name {
+  color: white;
+}
+
+.contact {
+  font-size: 16px;
+  margin-top: 15px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.english-level {
+  color: rgb(31, 139, 182);
+}
+
+.main-bg {
+  background: rgb(82, 245, 82);
+}
+
+.flex-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skill--item {
+  margin: 20px 30px;
+}
+
+.portfolio--item {
+  margin: 20px 30px;
+  opacity: 0.8;
+}
+
+.portfolio--item:hover {
+  opacity: 1;
+}
