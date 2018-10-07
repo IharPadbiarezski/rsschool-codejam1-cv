@@ -87,3 +87,8 @@ body {
 .portfolio__link:hover {
   opacity: 1;
 }
+
+.skills__caption, .education__caption,
+.portfolio__caption, .summary__caption {
+ padding: 10px 0;
+}
