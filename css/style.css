@@ -54,14 +54,14 @@ body {
   color: white;
 }
 
-.contact {
+.description__contact {
   font-size: 16px;
   margin-top: 15px;
   color: white;
   font-family: sans-serif;
 }
 
-.english-level {
+.description__english-level {
   color: rgb(31, 139, 182);
 }
 
