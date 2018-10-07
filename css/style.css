@@ -50,18 +50,18 @@ body {
   padding: 0 10px;
 }
 
-.name {
+.main-info__name {
   color: white;
 }
 
-.description__contact {
+.main-info__contact {
   font-size: 16px;
   margin-top: 15px;
   color: white;
   font-family: sans-serif;
 }
 
-.description__english-level {
+.main-info__english-level {
   color: rgb(31, 139, 182);
 }
 
